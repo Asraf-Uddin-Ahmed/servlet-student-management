@@ -1,0 +1,2 @@
+1. please create 'userinfo' table in 'mysql' before runinng this.
+2. 'user_info' is the main class. please run this with tomcat 7.0 .
